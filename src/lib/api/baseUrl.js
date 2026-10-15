@@ -1,2 +1,2 @@
 // export const baseUrl = 'http://localhost:8000'
-export const baseUrl = 'https://login-redirect-client.vercel.app'
+export const baseUrl = 'https://login-redirect-server.vercel.app'
